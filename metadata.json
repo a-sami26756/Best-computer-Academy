@@ -1,0 +1,6 @@
+{
+  "name": "Best Computer Academy (BCA)",
+  "description": "Premier educational institution offering practical Artificial Intelligence (AI) courses, certified computer training, and secondary/higher-secondary tuition in science, math, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
